@@ -1,8 +1,8 @@
 # 💫 About Me:
-👩‍💻I’m currently working on Salesforce Technology and I am 10X Salesforce Certified Application Architect.<br>
-📚I'm Currently Learning Heroku, Salesforce Functions and I Love Solving Programming Problems in my Free time
+👩‍💻I’m currently working on Salesforce Technology and I am 11X Salesforce Certified Application Architect.<br>
+📚I'm Currently Learning Heroku, and Salesforce Functions and I Love Solving Programming Problems in my Free time
 <br>
-💬 Ask me about Salesforce, LWC, Integration, Salesforce Functions
+💬 Ask me about Salesforce, LWC, Integration, Salesforce Functions, Heroku
 
 <h3>🛠 Tech Stack</h3>
 
