@@ -1,12 +1,12 @@
 # 💫 About Me:
-👩‍💻I’m currently working on Salesforce Technology and I am 11X Salesforce Certified Application Architect.<br>
+👩‍💻I’m currently working on Salesforce Technology and I am a 13X Salesforce Certified Application Architect.<br>
 📚I'm Currently Learning Heroku, and Salesforce Functions and I Love Solving Programming Problems in my Free time
 <br>
 💬 Ask me about Salesforce, LWC, Integration, Salesforce Functions, Heroku
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Salesforce | Java | Python | Kotlin
+- 💻 &nbsp; Salesforce | Java | Python 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js 
 - 🔧 &nbsp; Visual Studio code | Git
 
